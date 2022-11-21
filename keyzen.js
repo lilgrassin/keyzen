@@ -14,9 +14,10 @@ layouts={};
 layouts["qwerty"] = " jfkdlsahgyturieowpqbnvmcxz6758493021`-=[]\\;',./ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_+{}|:\"<>?";
 layouts["azerty"] = " jfkdlsmqhgyturieozpabnvcxw6758493021`-=[]\\;',./ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_+{}|:\"<>?";
 layouts["colemak"] = " ntesiroahdjglpufywqbkvmcxz1234567890'\",.!?:;/@$%&#*()_ABCDEFGHIJKLMNOPQRSTUVWXYZ~+-={}|^<>`[]\\";
-layouts["bÈpo"] = " tesirunamc,ËvodplÈjbk'.qxghyf‡zw6758493021`-=[]\\;/ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_+{}|:\"<>?";
+layouts["b√©po"] = " tesirunamc,√®vodpl√©jbk'.qxghyf√†zw6758493021`-=[]\\;/ABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_+{}|:\"<>?";
 layouts["norman"] = " ntieosaygjkufrdlw;qbpvmcxz1234567890'\",.!?:;/@$%&#*()_ABCDEFGHIJKLMNOPQRSTUVWXYZ~+-={}|^<>`[]\\";
 layouts["code-es6"] = " {}',;():.>=</_-|`!?#[]\\+\"@$%&*~^";
+layouts["colemak-dh"] = " ntesiroamgjblpufywqkvhdcxz',./";
 
 $(document).ready(function() {
     load_audio();

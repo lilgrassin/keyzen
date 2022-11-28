@@ -18,6 +18,7 @@ layouts["bépo"] = " tesirunamc,èvodpléjbk'.qxghyfàzw6758493021`-=[]\\;/ABCDE
 layouts["norman"] = " ntieosaygjkufrdlw;qbpvmcxz1234567890'\",.!?:;/@$%&#*()_ABCDEFGHIJKLMNOPQRSTUVWXYZ~+-={}|^<>`[]\\";
 layouts["code-es6"] = " {}',;():.>=</_-|`!?#[]\\+\"@$%&*~^";
 layouts["colemak-dh"] = " ntesiroamgjblpufywqkvhdcxz',.-NTESIROAMGJBLPUFYWQKVHDCXZ\"()_4567891230@$?#:~`;=><&!+{[%|*}]^/\\";
+layouts["symbol"] = "',.-\"()_4567891230@$?#:~`;=><&!+{[%|*}]^/\\";
 
 $(document).ready(function() {
     load_audio();

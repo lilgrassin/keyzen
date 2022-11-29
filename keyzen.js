@@ -20,6 +20,7 @@ layouts["code-es6"] = " {}',;():.>=</_-|`!?#[]\\+\"@$%&*~^";
 layouts["colemak-dh"] = " ntesiroamgjblpufywqkvhdcxz',.-NTESIROAMGJBLPUFYWQKVHDCXZ\"()_4567891230@$?#:~`;=><&!+{[%|*}]^/\\";
 layouts["symbol"] = "',.-\"()_4567891230@$?#:~`;=><&!+{[%|*}]^/\\";
 layouts["home"] = " ntesiroa";
+layouts["base"] = " ntesiroamgjblpufywqkvhdcxz',.-";
 
 $(document).ready(function() {
     load_audio();

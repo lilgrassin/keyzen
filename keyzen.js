@@ -21,6 +21,8 @@ layouts["colemak-dh"] = " ntesiroamgjblpufywqkvhdcxz',.-NTESIROAMGJBLPUFYWQKVHDC
 layouts["symbol"] = "',.-\"()_4567891230@$?#:~`;=><&!+{[%|*}]^/\\";
 layouts["home"] = " ntesiroa";
 layouts["base"] = " ntesiroamgjblpufywqkvhdcxz',.-";
+layouts["left"] = " tsragbpfwqvdcxz";
+layouts["right"] = " neiomjluy'kh,.-";
 
 $(document).ready(function() {
     load_audio();
